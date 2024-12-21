@@ -1,7 +1,0 @@
-pytest
-numpy
-pandas
-flake8
-black
-pre-commit
-autopep8
